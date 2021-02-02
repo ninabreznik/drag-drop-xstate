@@ -1,8 +1,7 @@
 # drag-drop-xstate (demo example)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/588538640abc4f218eee473d15c0b70e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-[![demo gif](<iframe src="https://giphy.com/embed/dqz6JoYnmUr4GcturO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dqz6JoYnmUr4GcturO">via GIPHY</a></p>)]
+![demo gif](https://giphy.com/embed/dqz6JoYnmUr4GcturO)]
 
 
 Example from [pair programming session with @davidkpiano](https://www.youtube.com/watch?v=uRfQJJArZEg)
