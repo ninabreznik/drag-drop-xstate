@@ -1,0 +1,19 @@
+{
+  "name": "drag-drop-xstate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "xstate": "^4.16.0"
+  },
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "budo": "^11.6.4"
+  },
+  "scripts": {
+    "start": "budo src/index.js:bundle.js --dir ./ --live --open",
+    "build": "browserify src/index.js -o bundle.js"
+  },
+  "author": "@ninabreznik",
+  "license": "MIT"
+}
