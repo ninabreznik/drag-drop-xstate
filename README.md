@@ -1,7 +1,7 @@
 # drag-drop-xstate (demo example)
 
 
-![demo gif](https://giphy.com/embed/dqz6JoYnmUr4GcturO)]
+![demo gif](https://giphy.com/embed/dqz6JoYnmUr4GcturO)
 
 
 Example from [pair programming session with @davidkpiano](https://www.youtube.com/watch?v=uRfQJJArZEg)
